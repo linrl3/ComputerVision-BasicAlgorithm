@@ -3,12 +3,12 @@
 It's a collection of some basic algorithsm in image processing or computer vision in Matlab which are part of my assignments in the introduction class of computer vision. 
 
 
--[Connected Component Labling](#Connected-Component-Labling)
+-[Connected Component Labling](#connected-component-labling)
 -[Morphological operator](#Morphological-operator)
 -[Histogram Equalization]
 -[Color Segmentation]
 -[Canny edge dector]
--[Hough transform](#Hough-transform)
+-[Hough transform](#hough-transform)
 ## Connected Component Labling
 ## Morphological operator
 ## Histogram Equalization
@@ -17,23 +17,6 @@ It's a collection of some basic algorithsm in image processing or computer visio
 q
 q
 q
-q
-q
-q
-q
-
-q
-q
-q
-q
-q
-q
-q
-q
-q
-q
-q
-
 q
 q
 
