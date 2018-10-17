@@ -4,15 +4,38 @@ It's a collection of some basic algorithsm in image processing or computer visio
 
 
 -[Connected Component Labling](#Connected-Component-Labling)
--[Morphological operator]
+-[Morphological operator](#Morphological-operator)
 -[Histogram Equalization]
 -[Color Segmentation]
 -[Canny edge dector]
--[Hough transform]
+-[Hough transform](#Hough-transform)
 ## Connected Component Labling
 ## Morphological operator
 ## Histogram Equalization
 ## Color Segmentation
 ## Canny edge dector 
+q
+q
+q
+q
+q
+q
+q
+
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+
+q
+q
+
 ## Hough transform
 
