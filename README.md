@@ -5,13 +5,13 @@ It's a collection of some basic algorithsm in image processing or computer visio
 
 -[Connected Component Labling](#connected-component-labling)
 
--[Morphological operator](#Morphological-operator)
+-[Morphological operator](#morphological-operator)
 
--[Histogram Equalization](#histogrem-equalization)
+-[Histogram Equalization](#histogram-equalization)
 
 -[Color Segmentation](#color-segmentation)
 
--[Canny edge dector](#canny-edge-dector)
+-[Canny edge detector](#canny-edge-detector)
 
 -[Hough transform](#hough-transform)
 
@@ -19,7 +19,7 @@ It's a collection of some basic algorithsm in image processing or computer visio
 ## Morphological operator
 ## Histogram Equalization
 ## Color Segmentation
-## Canny edge dector 
+## Canny edge detector 
 q
 q
 q
